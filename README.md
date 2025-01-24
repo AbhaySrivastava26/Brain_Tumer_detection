@@ -1,9 +1,15 @@
 # Brain_Tumer_detection
 Brain Tumor Detection Using CNN
 Project Overview:
-This project uses a Convolutional Neural Network (CNN) to classify brain MRI images into two categories: Tumor (Yes) and No Tumor (No). The model is trained on MRI images to predict the presence of a brain tumor.
+This project uses a Convolutional Neural Network (CNN) to classify brain MRI images into two categories: Tumor (Yes) and No Tumor (No). 
+
+The model is trained on MRI images to predict the presence of a brain tumor.
+
+
 Dataset:
 Yes: Images of brain MRIs with tumors (yes)/
+
+
 No: Images of brain MRIs without tumors /no)
 Images are resized to 128x128 pixels for uniformity.
 Data is normalized to improve model performance.
